@@ -1,3 +1,5 @@
+# Program: Selection Sort
+# It runs in O(n^2)
 
 def selection_sort(arr):
 # Input: arr (1xN)
